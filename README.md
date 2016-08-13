@@ -1,2 +1,2 @@
-
+SMS abbreviation Translator
 
