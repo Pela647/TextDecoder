@@ -1,2 +1,2 @@
 # TextDecoder
-This code translated short code in SMS to meaningful words.
+This code translates short code in SMS to meaningful words.
