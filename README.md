@@ -1,4 +1,3 @@
-# TextDecoder: This code translates short code in SMS to meaningful words.
 import re, string
 def chatDecoder():
     abr=['b1','141','AA','AAK','AAF','A3','LOL','IAAG','FR']
