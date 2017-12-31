@@ -7,7 +7,7 @@ def chatDecoder():
     message=input("What message do you want decoded? \n")
     translator = str.maketrans({key: None for key in string.punctuation})
     message=message.translate(translator)
-    messageToList=message.split() # change a sentence into a list so that i can loop through the words.
+    messageToList=message.split() # changes a sentence into loopable elements.
     
     for i in messageToList:
         modifiedMessage=""
