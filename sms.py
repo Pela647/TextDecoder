@@ -1,4 +1,4 @@
-#Sample code for SMS decoder
+#Sample code for SMS translator
 import re, string
 def chatDecoder():
     abr=['b1','141','AA','AAK','AAF','A3','LOL','IAAG','FR']
